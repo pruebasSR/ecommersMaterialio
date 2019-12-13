@@ -1,0 +1,9 @@
+header{
+  display: none !important;
+}
+.mat-toolbar .mat-primary .mat-toolbar-multiple-rows{
+  display: none !important;
+}
+.uk{
+  color: black !important;
+}

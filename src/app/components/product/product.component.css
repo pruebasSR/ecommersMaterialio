@@ -1,0 +1,24 @@
+/* @import "/appEcommers/node_modules/@angular/material/prebuilt-themes/indigo-pink.css"; */
+ /* img {
+    max-width: 100%;
+    
+} */
+/*.border{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2px;
+    display: block;
+} */
+.crep-image{
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.crep-image img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+}
